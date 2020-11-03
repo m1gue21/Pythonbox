@@ -44,4 +44,4 @@ while True:
     #ZONA DE DIBUJO#
     #actualizar pantalla
     pygame.display.flip()
-    clock.tick(60)
+    clock.tick(60)#nmero de "fps"
